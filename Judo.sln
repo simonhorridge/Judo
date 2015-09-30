@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Judo", "Judo\Judo.csproj", "{771E9A26-114D-4EBB-BFB8-77A0690FC8BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JudoTests1", "JudoTests1\JudoTests1.csproj", "{B0B00595-7274-4F38-BEE5-19D5A8465F54}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{771E9A26-114D-4EBB-BFB8-77A0690FC8BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{771E9A26-114D-4EBB-BFB8-77A0690FC8BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{771E9A26-114D-4EBB-BFB8-77A0690FC8BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{771E9A26-114D-4EBB-BFB8-77A0690FC8BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0B00595-7274-4F38-BEE5-19D5A8465F54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0B00595-7274-4F38-BEE5-19D5A8465F54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0B00595-7274-4F38-BEE5-19D5A8465F54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0B00595-7274-4F38-BEE5-19D5A8465F54}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
